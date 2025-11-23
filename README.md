@@ -76,7 +76,7 @@ mev-sandwich-bot/
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/mev-sandwich-bot.git
+git clone https://github.com/KushagraKanaujia/mev-sandwich-bot.git
 cd mev-sandwich-bot
 
 # Install dependencies
